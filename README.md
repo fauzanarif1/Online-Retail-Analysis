@@ -92,6 +92,6 @@ Based on the RFM analysis:
 
 1. Clone this repository or download the ZIP.
 2. Open `customer_segmentation_rfm.ipynb` using Jupyter Notebook.
-3. Ensure `OnlineRetail.csv` is inside the `data/` folder.
+3. Download online_retail csv from kaggle.
 4. Run all cells from top to bottom to reproduce the analysis.
 
